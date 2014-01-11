@@ -1,0 +1,58 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+body{
+	font-family:Helvetica;
+}
+
+.left {
+	height:100%;
+	width:9.5%;
+	position:absolute;
+	left:0.25%;
+	border-right-width:1px;
+	border-top-width:0px;
+	border-left-width:0px;
+	border-bottom-width:0px;
+	border-style:solid;
+	border-color: #F0F0F0
+	
+}
+
+img{
+	width:43%;
+	margin-left:35%;
+	padding-top: 26%;
+	padding-bottom: 25%;
+	
+}
+
+#menu {
+	padding-right:22%;
+	padding-bottom: 12%;
+	font-size:  0.9em;
+	color:#BABABA;
+	font-family: Helvetica;
+	text-align: right;
+}
+
+
+
+#center {
+       float:left;
+       margin-left:9.5%;
+       width: 50%;
+       padding-left: 5%;
+
+}
+
+#title {
+       margin-top:6%;
+       margin-bottom:8%;
+       font-size: 2em;
+}
+
+#byline {
+       margin-top:10%;
+       margin-bottom:4%;
+}
+
